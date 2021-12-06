@@ -1,0 +1,2 @@
+user@DESKTOP-782DOUJ MINGW64 ~/Documents (master)
+$ git remove add origin https://github.com/JPN20/Atv-encontro-remoto-UC07
