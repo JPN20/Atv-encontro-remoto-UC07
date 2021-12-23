@@ -1,4 +1,6 @@
-user@DESKTOP-782DOUJ MINGW64 ~/Documents/senai/senai-versoes-colaboracoes (tarefa/minha-primeira-branch)
+user@DESKTOP-782DOUJ MINGW64 ~/Documents/senai/senai-versoes-colaboracoes (tarefa/minha-segunda-branch)
+$ git checkout -b tarefa/minha-segunda-branch
+
 $ git checkout main
 
 $ git add         
@@ -6,3 +8,7 @@ $ git add
 $ git commit –m "adicionando o comando git commit" 
 
 $ git push origin exemplo-branch
+
+$ git pull origin tarefa/minha-primeira-branch
+
+$ git merge tarefa/minha-primeira-branch
