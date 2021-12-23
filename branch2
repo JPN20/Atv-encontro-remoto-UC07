@@ -1,0 +1,8 @@
+user@DESKTOP-782DOUJ MINGW64 ~/Documents/senai/senai-versoes-colaboracoes (tarefa/minha-primeira-branch)
+$ git checkout main
+
+$ git add         
+
+$ git commit –m "adicionando o comando git commit" 
+
+$ git push origin exemplo-branch
