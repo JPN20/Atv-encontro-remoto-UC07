@@ -8,3 +8,7 @@ $ git add
 $ git commit -m "adicionando git status"
 
 $ git push
+
+$ git pull origin tarefa/minha-segunda-branch
+
+$ git merge tarefa/minha-segunda-branch
