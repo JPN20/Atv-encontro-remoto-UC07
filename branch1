@@ -1,0 +1,10 @@
+user@DESKTOP-782DOUJ MINGW64 ~/Documents/senai/senai-versoes-colaboracoes (tarefa/minha-primeira-branch)
+$ git checkout -b tarefa/minha-primeira-branch
+
+$ git status
+
+$ git add
+
+$ git commit -m "adicionando git status"
+
+$ git push
